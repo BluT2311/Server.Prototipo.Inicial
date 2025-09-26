@@ -1,32 +1,53 @@
-[00:02:04] [Server thread/INFO]: EDUARDOX12[/127.255.171.253:53941] logged in with entity id 435 at (3.5, 98.0, -7.5)
-[00:02:04] [Server thread/INFO]: EDUARDOX12 joined the game
-[00:03:32] [Server thread/INFO]: EDUARDOX12 has made the advancement [Monster Hunter]
-[00:04:39] [Server thread/INFO]: CharlieZX2020[/127.175.159.132:56657] logged in with entity id 1270 at (12.060046699235158, 77.0, 16.571789288029926)
-[00:04:39] [Server thread/INFO]: CharlieZX2020 joined the game
-[00:05:31] [Server thread/INFO]: EDUARDOX12 fell from a high place
-[00:10:10] [Server thread/INFO]: EDUARDOX12 has made the advancement [Stone Age]
-[00:11:27] [Server thread/INFO]: EDUARDOX12 has made the advancement [Getting an Upgrade]
-[00:15:28] [Server thread/INFO]: CharlieZX2020 has made the advancement [Stone Age]
-[00:17:03] [Server thread/INFO]: CharlieZX2020 has made the advancement [Monster Hunter]
-[00:21:34] [Server thread/INFO]: CharlieZX2020 was shot by Skeleton
-[00:22:29] [Server thread/INFO]: CharlieZX2020 was shot by Skeleton
-[00:23:35] [Server thread/INFO]: EDUARDOX12 lost connection: Timed out
-[00:23:35] [Server thread/INFO]: EDUARDOX12 left the game
-[00:23:42] [Server thread/INFO]: EDUARDOX12[/127.255.171.253:39863] logged in with entity id 4725 at (-46.352279312961294, 66.0, 16.61052509096937)
-[00:23:42] [Server thread/INFO]: EDUARDOX12 joined the game
-[00:25:44] [Server thread/INFO]: EDUARDOX12 has made the advancement [Fishy Business]
-[00:31:05] [Server thread/INFO]: CharlieZX2020 lost connection: Disconnected
-[00:31:05] [Server thread/INFO]: CharlieZX2020 left the game
-[00:31:09] [Server thread/INFO]: EDUARDOX12 lost connection: Disconnected
-[00:31:09] [Server thread/INFO]: EDUARDOX12 left the game
-[00:31:25] [Server thread/INFO]: Stopping the server
-[00:31:25] [Server thread/INFO]: Stopping server
-[00:31:25] [Server thread/INFO]: Saving players
-[00:31:25] [Server thread/INFO]: Saving worlds
-[00:31:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:31:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:31:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:31:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:31:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:31:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:31:26] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:50:28] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[00:50:29] [ServerMain/INFO]: Loaded 7 recipes
+[00:50:29] [ServerMain/INFO]: Loaded 1271 advancements
+[00:50:30] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[00:50:30] [Server thread/INFO]: Loading properties
+[00:50:30] [Server thread/INFO]: Default game type: SURVIVAL
+[00:50:30] [Server thread/INFO]: Generating keypair
+[00:50:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:50:30] [Server thread/INFO]: Using epoll channel type
+[00:50:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:50:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:50:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:50:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:50:30] [Server thread/INFO]: Preparing level "world"
+[00:50:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:50:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:50:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:50:35] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:50:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:50:35] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:50:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:50:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:50:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:50:37] [Worker-Main-2/INFO]: Preparing spawn area: 9%
+[00:50:37] [Worker-Main-1/INFO]: Preparing spawn area: 90%
+[00:50:37] [Server thread/INFO]: Time elapsed: 4555 ms
+[00:50:37] [Server thread/INFO]: Done (7.053s)! For help, type "help"
+[00:50:41] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:50:41] [Server thread/INFO]: <--[HERE]
+[00:52:18] [Server thread/INFO]: CharlieZX2020[/127.175.159.132:53043] logged in with entity id 271 at (337.59730005464013, 67.0, -146.07951185522475)
+[00:52:18] [Server thread/INFO]: CharlieZX2020 joined the game
+[00:53:23] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:53:23] [Server thread/INFO]: admin CharlieZX2020<--[HERE]
+[00:54:07] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:54:07] [Server thread/INFO]: admin CharlieZX2020<--[HERE]
+[00:55:23] [Server thread/INFO]: Made CharlieZX2020 a server operator
+[00:55:50] [Server thread/INFO]: [CharlieZX2020: The difficulty has been set to Hard]
+[00:56:32] [Server thread/INFO]: [CharlieZX2020: Set own game mode to Creative Mode]
+[01:02:20] [Server thread/INFO]: CharlieZX2020 lost connection: Disconnected
+[01:02:20] [Server thread/INFO]: CharlieZX2020 left the game
+[01:02:32] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:02:32] [Server thread/INFO]: tstop<--[HERE]
+[01:02:36] [Server thread/INFO]: Stopping the server
+[01:02:36] [Server thread/INFO]: Stopping server
+[01:02:36] [Server thread/INFO]: Saving players
+[01:02:36] [Server thread/INFO]: Saving worlds
+[01:02:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:02:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:02:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:02:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:02:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:02:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:02:37] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
