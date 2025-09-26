@@ -12,3 +12,21 @@
 [00:22:29] [Server thread/INFO]: CharlieZX2020 was shot by Skeleton
 [00:23:35] [Server thread/INFO]: EDUARDOX12 lost connection: Timed out
 [00:23:35] [Server thread/INFO]: EDUARDOX12 left the game
+[00:23:42] [Server thread/INFO]: EDUARDOX12[/127.255.171.253:39863] logged in with entity id 4725 at (-46.352279312961294, 66.0, 16.61052509096937)
+[00:23:42] [Server thread/INFO]: EDUARDOX12 joined the game
+[00:25:44] [Server thread/INFO]: EDUARDOX12 has made the advancement [Fishy Business]
+[00:31:05] [Server thread/INFO]: CharlieZX2020 lost connection: Disconnected
+[00:31:05] [Server thread/INFO]: CharlieZX2020 left the game
+[00:31:09] [Server thread/INFO]: EDUARDOX12 lost connection: Disconnected
+[00:31:09] [Server thread/INFO]: EDUARDOX12 left the game
+[00:31:25] [Server thread/INFO]: Stopping the server
+[00:31:25] [Server thread/INFO]: Stopping server
+[00:31:25] [Server thread/INFO]: Saving players
+[00:31:25] [Server thread/INFO]: Saving worlds
+[00:31:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:31:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:31:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:31:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:31:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:31:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:31:26] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
