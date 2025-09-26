@@ -1,37 +1,8 @@
-[00:02:27] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[00:02:29] [ServerMain/INFO]: Loaded 7 recipes
-[00:02:29] [ServerMain/INFO]: Loaded 1271 advancements
-[00:02:29] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[00:02:29] [Server thread/INFO]: Loading properties
-[00:02:29] [Server thread/INFO]: Default game type: SURVIVAL
-[00:02:29] [Server thread/INFO]: Generating keypair
-[00:02:29] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:02:29] [Server thread/INFO]: Using epoll channel type
-[00:02:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:02:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:02:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:02:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:02:29] [Server thread/INFO]: Preparing level "world"
-[00:02:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:02:35] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:02:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:02:35] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:02:35] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:02:35] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:02:35] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:02:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:02:36] [Worker-Main-3/INFO]: Preparing spawn area: 15%
-[00:02:36] [Worker-Main-3/INFO]: Preparing spawn area: 88%
-[00:02:36] [Server thread/INFO]: Time elapsed: 4092 ms
-[00:02:36] [Server thread/INFO]: Done (6.863s)! For help, type "help"
-[00:03:26] [Server thread/INFO]: Stopping the server
-[00:03:26] [Server thread/INFO]: Stopping server
-[00:03:26] [Server thread/INFO]: Saving players
-[00:03:26] [Server thread/INFO]: Saving worlds
-[00:03:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:03:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:03:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:03:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:03:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:03:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:03:28] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:02:04] [Server thread/INFO]: EDUARDOX12[/127.255.171.253:53941] logged in with entity id 435 at (3.5, 98.0, -7.5)
+[00:02:04] [Server thread/INFO]: EDUARDOX12 joined the game
+[00:03:32] [Server thread/INFO]: EDUARDOX12 has made the advancement [Monster Hunter]
+[00:04:39] [Server thread/INFO]: CharlieZX2020[/127.175.159.132:56657] logged in with entity id 1270 at (12.060046699235158, 77.0, 16.571789288029926)
+[00:04:39] [Server thread/INFO]: CharlieZX2020 joined the game
+[00:05:31] [Server thread/INFO]: EDUARDOX12 fell from a high place
+[00:10:10] [Server thread/INFO]: EDUARDOX12 has made the advancement [Stone Age]
+[00:11:27] [Server thread/INFO]: EDUARDOX12 has made the advancement [Getting an Upgrade]
