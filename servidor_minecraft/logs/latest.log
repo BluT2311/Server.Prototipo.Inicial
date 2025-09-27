@@ -55,3 +55,45 @@
 [20:22:35] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-5, y=95, z=-6}
 [20:23:05] [Server thread/INFO]: vichox21 was slain by Patolin4231
 [20:25:16] [Server thread/INFO]: Patolin4231 has made the advancement [Stone Age]
+[20:26:19] [Server thread/INFO]: Patolin4231 lost connection: Disconnected
+[20:26:19] [Server thread/INFO]: Patolin4231 left the game
+[20:26:59] [Server thread/INFO]: CharlieZX2020[/127.175.159.132:37325] logged in with entity id 2582 at (301.05321897803464, 80.0, -175.55751529709465)
+[20:26:59] [Server thread/INFO]: CharlieZX2020 joined the game
+[20:27:24] [Server thread/INFO]: CharlieZX2020 lost connection: Disconnected
+[20:27:24] [Server thread/INFO]: CharlieZX2020 left the game
+[20:28:29] [Server thread/INFO]: Patolin4231[/127.175.159.132:57551] logged in with entity id 3616 at (-79.06491117849616, 28.0, -3.9918839342638814)
+[20:28:29] [Server thread/INFO]: Patolin4231 joined the game
+[20:28:50] [Server thread/INFO]: Patolin4231 has made the advancement [Getting an Upgrade]
+[20:29:35] [Server thread/INFO]: Patolin4231 was shot by Skeleton
+[20:29:39] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-8, y=79, z=11}
+[20:29:39] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-8, y=79, z=11}
+[20:29:39] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-8, y=79, z=11}
+[20:29:39] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-8, y=79, z=11}
+[20:29:40] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-8, y=79, z=11}
+[20:29:40] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-8, y=79, z=11}
+[20:29:40] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-8, y=79, z=11}
+[20:30:30] [Server thread/INFO]: Patolin4231 was shot by Skeleton
+[20:31:12] [Server thread/INFO]: vichox21 was slain by Zombie
+[20:31:17] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-7, y=91, z=-2}
+[20:31:52] [Server thread/INFO]: Patolin4231 tried to swim in lava
+[20:31:56] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-2, y=86, z=6}
+[20:31:56] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-2, y=85, z=6}
+[20:31:56] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-2, y=86, z=6}
+[20:31:57] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-2, y=86, z=6}
+[20:31:57] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-1, y=86, z=6}
+[20:31:58] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-2, y=86, z=6}
+[20:32:07] [Server thread/INFO]: Patolin4231 lost connection: Disconnected
+[20:32:07] [Server thread/INFO]: Patolin4231 left the game
+[20:32:14] [Server thread/INFO]: vichox21 lost connection: Disconnected
+[20:32:14] [Server thread/INFO]: vichox21 left the game
+[20:32:22] [Server thread/INFO]: Stopping the server
+[20:32:22] [Server thread/INFO]: Stopping server
+[20:32:22] [Server thread/INFO]: Saving players
+[20:32:22] [Server thread/INFO]: Saving worlds
+[20:32:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:32:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:32:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:32:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:32:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:32:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:32:23] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
